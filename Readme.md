@@ -1,3 +1,4 @@
+Install the requirements: `pip install -r requirements.txt` <br/>
 To start the application, run `streamlit run app.py`. <br/>
 Go to http://localhost:8501. <br/>
 Upload your cv via sidebar and click on "Process" button. <br/>
